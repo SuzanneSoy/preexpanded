@@ -6,4 +6,4 @@
 (define scribblings '(("scribblings/preexpanded.scrbl" ())))
 (define pkg-desc "Description Here")
 (define version "0.0")
-(define pkg-authors '(georges))
+(define pkg-authors '(|Suzanne Soy|))

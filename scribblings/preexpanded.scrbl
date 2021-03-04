@@ -3,7 +3,7 @@
                     racket/base]]
 
 @title{preexpanded}
-@author{georges}
+@author[@author+email["Suzanne Soy" "racket@suzanne.soy"]]
 
 @defmodule[preexpanded]
 
